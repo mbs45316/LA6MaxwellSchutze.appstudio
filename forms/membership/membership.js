@@ -1,4 +1,3 @@
-/*
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 
@@ -13,4 +12,4 @@ btnSubmit.onclick=function(){
       members.push(iptName.value)
       }
 }
-*/
+
