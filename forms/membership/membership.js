@@ -12,3 +12,4 @@ btnSubmit.onclick=function(){
       members.push(iptName.value)
       }
 }
+
