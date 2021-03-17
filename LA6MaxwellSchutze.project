@@ -69,7 +69,9 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
+
       "firstform": "calculator",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
