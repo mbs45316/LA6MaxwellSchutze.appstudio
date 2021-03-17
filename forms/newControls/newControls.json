@@ -9,6 +9,7 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
+
   "children": [
     {
       "!type": "External",
@@ -92,15 +93,25 @@
       ]
     }
   ],
+
+  "children": [],
+
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
+
   "height": "460",
   "id": "newControls",
   "language": "JavaScript",
   "left": "34",
+
+  "height": 460,
+  "id": "newControls",
+  "language": "JavaScript",
+  "left": "0",
+
   "locked": false,
   "modal": "false",
   "onhide": "",
@@ -115,5 +126,8 @@
   "style": "",
   "theme": "",
   "top": "0",
+
   "width": "320"
+  "width": 320
+
 }
